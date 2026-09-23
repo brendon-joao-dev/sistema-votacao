@@ -1,7 +1,7 @@
+### Diagrama de sequência para um voto inválido
+
 ```mermaid
 sequenceDiagram
-    title Diagrama de sequência para um voto inválido
-
     participant U as Usuário
     participant F as Urna
     participant H as Host

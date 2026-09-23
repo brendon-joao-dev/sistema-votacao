@@ -1,3 +1,5 @@
+### Diagrama de estado do sistema no geral
+
 ```mermaid
 stateDiagram-v2
     A: Não Iniciada

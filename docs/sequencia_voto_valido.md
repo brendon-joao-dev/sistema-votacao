@@ -1,7 +1,7 @@
+### Diagrama de sequência para um voto válido
+
 ```mermaid
 sequenceDiagram
-    title Diagrama de sequência para um voto válido
-
     participant U as Usuário
     participant F as Urna
     participant H as Host
